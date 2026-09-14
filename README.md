@@ -4,7 +4,7 @@
 
 ## About Me
 
-> ✏️ **Write your own introduction here!**
+
 
 I'm a developer and tech enthusiast interested in programming, networking, Linux, game modding, and building things from the ground up.
 
