@@ -1,21 +1,18 @@
-# Hey, I'm aacanadaa
+# 嘿，我是 aacanadaa
 
-<!-- ================= ABOUT ME ================= -->
+<!-- ================= 关于我 ================= -->
 
-## About Me
+## 关于我
 
+我是一名开发者和技术爱好者，对编程、网络、Linux、游戏模组开发以及从零开始构建东西感兴趣。
 
+* 💻 目前正在开发：**DayZ Hotbar（适用于 Fabric 1.20.1 的 Minecraft HUD 模组）**
+* 🔭 兴趣方向：**编程 • Linux • 网络 • 游戏模组开发**
+* 🧠 正在学习：**Rust**
 
-I'm a developer and tech enthusiast interested in programming, networking, Linux, game modding, and building things from the ground up.
+<!-- 主页浏览量 -->
 
-* 💻 Currently working on: **DayZ Hotbar (Minecraft HUD mod for Fabric 1.20.1)**
-* 🔭 Interested in: **Programming • Linux • Networking • Game Modding**
-* 🧠 Learning: **Rust**
-
-
-<!-- Profile Views -->
-
-![Profile Views](https://komarev.com/ghpvc/?username=aacanadaa&color=blueviolet&style=flat&label=PROFILE+VIEWS)
+![主页浏览量](https://komarev.com/ghpvc/?username=aacanadaa&color=blueviolet&style=flat&label=PROFILE+VIEWS)
 
 <!-- Ko-fi -->
 
@@ -23,17 +20,17 @@ I'm a developer and tech enthusiast interested in programming, networking, Linux
 
 ---
 
-## Projects & Repositories
+## 项目与仓库
 
-### My Repositories
+### 我的仓库
 
-Check out my projects, experiments, and various things I'm working on:
+来看看我的项目、实验以及我正在做的各种东西：
 
-[![Repositories](https://img.shields.io/badge/GitHub-Repositories-181717?style=flat&logo=github)](https://github.com/aacanadaa?tab=repositories)
+[![仓库](https://img.shields.io/badge/GitHub-Repositories-181717?style=flat&logo=github)](https://github.com/aacanadaa?tab=repositories)
 
-### Minecraft Modding
+### Minecraft 模组开发
 
-I also work with and create mods/content for different games.
+我也会为不同游戏制作模组/内容。
 
 **Modrinth**
 
@@ -45,9 +42,9 @@ I also work with and create mods/content for different games.
 
 ---
 
-# Skills & Tools
+# 技能与工具
 
-## Languages & Technologies
+## 语言与技术
 
 <p align="left">
 
@@ -65,7 +62,7 @@ I also work with and create mods/content for different games.
 
 </p>
 
-## Tools & Software
+## 工具与软件
 
 <p align="left">
 
@@ -94,7 +91,7 @@ I also work with and create mods/content for different games.
 
 ---
 
-# GitHub Stats
+# GitHub 统计
 
 <p align="center">
 
@@ -107,5 +104,5 @@ I also work with and create mods/content for different games.
 ---
 
 <p align="center">
-  <i>Thanks for stopping by!</i> ⭐
+  <i>感谢来访！</i> ⭐
 </p>
