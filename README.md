@@ -38,7 +38,7 @@
 
 **CurseForge**
 
-[![CurseForge](https://img.shields.io/badge/CurseForge-Projects-F16436?style=flat&logo=curseforge&logoColor=white)]([https://www.curseforge.com/members/suoim/projects](https://www.curseforge.com/members/takebesaori/projects))
+[![CurseForge](https://img.shields.io/badge/CurseForge-Projects-F16436?style=flat&logo=curseforge&logoColor=white)](https://www.curseforge.com/members/takebesaori/projects)
 
 ---
 
