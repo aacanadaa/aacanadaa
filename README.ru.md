@@ -1,6 +1,6 @@
 # Привет, я aacanadaa
 
-[English](README.en.md) · [中文](README.md) · [Español](README.es.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Português](README.pt.md) · **Русский** · [العربية](README.ar.md) · [हिन्दी](README.hi.md)
+[English](README.md) · [中文](README.zh.md) · [Español](README.es.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Português](README.pt.md) · **Русский** · [العربية](README.ar.md) · [हिन्दी](README.hi.md)
 
 ## Обо мне
 

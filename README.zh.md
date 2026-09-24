@@ -1,32 +1,32 @@
-# Salut, moi c'est aacanadaa
+# 嘿，我是 aacanadaa
 
-[English](README.md) · [中文](README.zh.md) · [Español](README.es.md) · **Français** · [Deutsch](README.de.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Português](README.pt.md) · [Русский](README.ru.md) · [العربية](README.ar.md) · [हिन्दी](README.hi.md)
+[English](README.md) · **中文** · [Español](README.es.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Português](README.pt.md) · [Русский](README.ru.md) · [العربية](README.ar.md) · [हिन्दी](README.hi.md)
 
-## À propos de moi
+## 关于我
 
-Je suis développeur et passionné de tech, intéressé par la programmation, les réseaux, Linux, le modding de jeux et le fait de construire des choses from scratch.
+我是一名开发者和技术爱好者，对编程、网络、Linux、游戏模组开发以及从零开始构建东西感兴趣。
 
-* 💻 En cours : **DayZ Hotbar (un mod de HUD Minecraft pour Fabric 1.20.1)**
-* 🔭 Centres d'intérêt : **Programmation • Linux • Réseaux • Modding de jeux**
-* 🧠 En train d'apprendre : **Rust**
+* 💻 目前正在开发：**DayZ Hotbar（适用于 Fabric 1.20.1 的 Minecraft HUD 模组）**
+* 🔭 兴趣方向：**编程 • Linux • 网络 • 游戏模组开发**
+* 🧠 正在学习：**Rust**
 
-![Vues du profil](https://komarev.com/ghpvc/?username=aacanadaa&color=blueviolet&style=flat&label=PROFILE+VIEWS)
+![主页浏览量](https://komarev.com/ghpvc/?username=aacanadaa&color=blueviolet&style=flat&label=PROFILE+VIEWS)
 
 [![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/suoim)
 
 ---
 
-## Projets & dépôts
+## 项目与仓库
 
-### Mes dépôts
+### 我的仓库
 
-Découvrez mes projets, expériences et diverses choses sur lesquelles je travaille :
+来看看我的项目、实验以及我正在做的各种东西：
 
-[![Dépôts](https://img.shields.io/badge/GitHub-Repositories-181717?style=flat&logo=github)](https://github.com/aacanadaa?tab=repositories)
+[![仓库](https://img.shields.io/badge/GitHub-Repositories-181717?style=flat&logo=github)](https://github.com/aacanadaa?tab=repositories)
 
-### Modding Minecraft
+### Minecraft 模组开发
 
-Je crée aussi des mods et du contenu pour différents jeux.
+我也会为不同游戏制作模组/内容。
 
 **Modrinth**
 
@@ -38,9 +38,9 @@ Je crée aussi des mods et du contenu pour différents jeux.
 
 ---
 
-# Compétences & outils
+# 技能与工具
 
-## Langages & technologies
+## 语言与技术
 
 <p align="left">
 
@@ -58,7 +58,7 @@ Je crée aussi des mods et du contenu pour différents jeux.
 
 </p>
 
-## Outils & logiciels
+## 工具与软件
 
 <p align="left">
 
@@ -87,7 +87,7 @@ Je crée aussi des mods et du contenu pour différents jeux.
 
 ---
 
-# Statistiques GitHub
+# GitHub 统计
 
 <p align="center">
 
@@ -100,5 +100,5 @@ Je crée aussi des mods et du contenu pour différents jeux.
 ---
 
 <p align="center">
-  <i>Merci de votre visite !</i> ⭐
+  <i>感谢来访！</i> ⭐
 </p>
