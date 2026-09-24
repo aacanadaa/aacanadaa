@@ -1,32 +1,32 @@
-# 嘿，我是 aacanadaa
+# नमस्ते, मैं aacanadaa हूँ
 
-[English](README.en.md) · **中文** · [Español](README.es.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Português](README.pt.md) · [Русский](README.ru.md) · [العربية](README.ar.md) · [हिन्दी](README.hi.md)
+[English](README.en.md) · [中文](README.md) · [Español](README.es.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Português](README.pt.md) · [Русский](README.ru.md) · [العربية](README.ar.md) · **हिन्दी**
 
-## 关于我
+## मेरे बारे में
 
-我是一名开发者和技术爱好者，对编程、网络、Linux、游戏模组开发以及从零开始构建东西感兴趣。
+मैं एक डेवलपर और तकनीकी उत्साही हूँ — प्रोग्रामिंग, नेटवर्किंग, Linux, गेम मोडिंग और शून्य से कुछ बनाने में रुचि रखता हूँ।
 
-* 💻 目前正在开发：**DayZ Hotbar（适用于 Fabric 1.20.1 的 Minecraft HUD 模组）**
-* 🔭 兴趣方向：**编程 • Linux • 网络 • 游戏模组开发**
-* 🧠 正在学习：**Rust**
+* 💁 वर्तमान में काम कर रहा हूँ: **DayZ Hotbar (Fabric 1.20.1 के लिए Minecraft HUD मॉड)**
+* 🔭 रुचियाँ: **प्रोग्रामिंग • Linux • नेटवर्किंग • गेम मोडिंग**
+* 🧠 सीख रहा हूँ: **Rust**
 
-![主页浏览量](https://komarev.com/ghpvc/?username=aacanadaa&color=blueviolet&style=flat&label=PROFILE+VIEWS)
+![प्रोफ़ाइल व्यूज़](https://komarev.com/ghpvc/?username=aacanadaa&color=blueviolet&style=flat&label=PROFILE+VIEWS)
 
 [![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/suoim)
 
 ---
 
-## 项目与仓库
+## प्रोजेक्ट्स और रिपॉज़िटरी
 
-### 我的仓库
+### मेरे रिपॉज़िटरी
 
-来看看我的项目、实验以及我正在做的各种东西：
+मेरे प्रोजेक्ट्स, प्रयोगों और विभिन्न कामों को देखें:
 
-[![仓库](https://img.shields.io/badge/GitHub-Repositories-181717?style=flat&logo=github)](https://github.com/aacanadaa?tab=repositories)
+[![रिपॉज़िटरी](https://img.shields.io/badge/GitHub-Repositories-181717?style=flat&logo=github)](https://github.com/aacanadaa?tab=repositories)
 
-### Minecraft 模组开发
+### Minecraft मोडिंग
 
-我也会为不同游戏制作模组/内容。
+मैं विभिन्न गेम्स के लिए मॉड और कंटेंट भी बनाता हूँ।
 
 **Modrinth**
 
@@ -38,9 +38,9 @@
 
 ---
 
-# 技能与工具
+# कौशल & उपकरण
 
-## 语言与技术
+## भाषाएँ & तकनीकें
 
 <p align="left">
 
@@ -58,7 +58,7 @@
 
 </p>
 
-## 工具与软件
+## उपकरण & सॉफ़्टवेयर
 
 <p align="left">
 
@@ -87,7 +87,7 @@
 
 ---
 
-# GitHub 统计
+# GitHub आँकड़े
 
 <p align="center">
 
@@ -100,5 +100,5 @@
 ---
 
 <p align="center">
-  <i>感谢来访！</i> ⭐
+  <i>आने के लिए धन्यवाद!</i> ⭐
 </p>

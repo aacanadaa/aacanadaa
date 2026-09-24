@@ -1,32 +1,32 @@
-# 嘿，我是 aacanadaa
+# こんにちは、aacanadaa です
 
-[English](README.en.md) · **中文** · [Español](README.es.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Português](README.pt.md) · [Русский](README.ru.md) · [العربية](README.ar.md) · [हिन्दी](README.hi.md)
+[English](README.en.md) · [中文](README.md) · [Español](README.es.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · **日本語** · [한국어](README.ko.md) · [Português](README.pt.md) · [Русский](README.ru.md) · [العربية](README.ar.md) · [हिन्दी](README.hi.md)
 
-## 关于我
+## 自己紹介
 
-我是一名开发者和技术爱好者，对编程、网络、Linux、游戏模组开发以及从零开始构建东西感兴趣。
+プログラミング、ネットワーク、Linux、ゲーム mod 開発、そしてゼロから物を構築することが好きな開発者・テクノロジー愛好家です。
 
-* 💻 目前正在开发：**DayZ Hotbar（适用于 Fabric 1.20.1 的 Minecraft HUD 模组）**
-* 🔭 兴趣方向：**编程 • Linux • 网络 • 游戏模组开发**
-* 🧠 正在学习：**Rust**
+* 💻 現在開発中：**DayZ Hotbar（Fabric 1.20.1 向け Minecraft HUD モッド）**
+* 🔭 興味のある分野：**プログラミング • Linux • ネットワーク • ゲーム mod 開発**
+* 🧠 学習中：**Rust**
 
-![主页浏览量](https://komarev.com/ghpvc/?username=aacanadaa&color=blueviolet&style=flat&label=PROFILE+VIEWS)
+![プロフィール閲覧数](https://komarev.com/ghpvc/?username=aacanadaa&color=blueviolet&style=flat&label=PROFILE+VIEWS)
 
 [![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/suoim)
 
 ---
 
-## 项目与仓库
+## プロジェクトとリポジトリ
 
-### 我的仓库
+### 私のリポジトリ
 
-来看看我的项目、实验以及我正在做的各种东西：
+プロジェクト、実験、さまざまな取り組みをご覧ください：
 
-[![仓库](https://img.shields.io/badge/GitHub-Repositories-181717?style=flat&logo=github)](https://github.com/aacanadaa?tab=repositories)
+[![リポジトリ](https://img.shields.io/badge/GitHub-Repositories-181717?style=flat&logo=github)](https://github.com/aacanadaa?tab=repositories)
 
-### Minecraft 模组开发
+### Minecraft モッド開発
 
-我也会为不同游戏制作模组/内容。
+さまざまなゲーム向けのモッドやコンテンツも制作しています。
 
 **Modrinth**
 
@@ -38,9 +38,9 @@
 
 ---
 
-# 技能与工具
+# スキルとツール
 
-## 语言与技术
+## 言語と技術
 
 <p align="left">
 
@@ -58,7 +58,7 @@
 
 </p>
 
-## 工具与软件
+## ツールとソフトウェア
 
 <p align="left">
 
@@ -87,7 +87,7 @@
 
 ---
 
-# GitHub 统计
+# GitHub 統計
 
 <p align="center">
 
@@ -100,5 +100,5 @@
 ---
 
 <p align="center">
-  <i>感谢来访！</i> ⭐
+  <i>ご覧いただきありがとうございます！</i> ⭐
 </p>

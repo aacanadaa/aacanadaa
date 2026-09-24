@@ -1,32 +1,32 @@
-# 嘿，我是 aacanadaa
+# Привет, я aacanadaa
 
-[English](README.en.md) · **中文** · [Español](README.es.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Português](README.pt.md) · [Русский](README.ru.md) · [العربية](README.ar.md) · [हिन्दी](README.hi.md)
+[English](README.en.md) · [中文](README.md) · [Español](README.es.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Português](README.pt.md) · **Русский** · [العربية](README.ar.md) · [हिन्दी](README.hi.md)
 
-## 关于我
+## Обо мне
 
-我是一名开发者和技术爱好者，对编程、网络、Linux、游戏模组开发以及从零开始构建东西感兴趣。
+Я разработчик и энтузиаст технологий: мне интересны программирование, сети, Linux, моддинг игр и создание чего-то с нуля.
 
-* 💻 目前正在开发：**DayZ Hotbar（适用于 Fabric 1.20.1 的 Minecraft HUD 模组）**
-* 🔭 兴趣方向：**编程 • Linux • 网络 • 游戏模组开发**
-* 🧠 正在学习：**Rust**
+* 💁 Сейчас работаю над: **DayZ Hotbar (HUD-мод Minecraft для Fabric 1.20.1)**
+* 🔭 Интересы: **Программирование • Linux • Сети • Моддинг игр**
+* 🧠 Изучаю: **Rust**
 
-![主页浏览量](https://komarev.com/ghpvc/?username=aacanadaa&color=blueviolet&style=flat&label=PROFILE+VIEWS)
+![Просмотры профиля](https://komarev.com/ghpvc/?username=aacanadaa&color=blueviolet&style=flat&label=PROFILE+VIEWS)
 
 [![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/suoim)
 
 ---
 
-## 项目与仓库
+## Проекты и репозитории
 
-### 我的仓库
+### Мои репозитории
 
-来看看我的项目、实验以及我正在做的各种东西：
+Посмотрите мои проекты, эксперименты и разные вещи, над которыми я работаю:
 
-[![仓库](https://img.shields.io/badge/GitHub-Repositories-181717?style=flat&logo=github)](https://github.com/aacanadaa?tab=repositories)
+[![Репозитории](https://img.shields.io/badge/GitHub-Repositories-181717?style=flat&logo=github)](https://github.com/aacanadaa?tab=repositories)
 
-### Minecraft 模组开发
+### Моддинг Minecraft
 
-我也会为不同游戏制作模组/内容。
+Также я делаю моды и контент для разных игр.
 
 **Modrinth**
 
@@ -38,9 +38,9 @@
 
 ---
 
-# 技能与工具
+# Навыки и инструменты
 
-## 语言与技术
+## Языки и технологии
 
 <p align="left">
 
@@ -58,7 +58,7 @@
 
 </p>
 
-## 工具与软件
+## Инструменты и программное обеспечение
 
 <p align="left">
 
@@ -87,7 +87,7 @@
 
 ---
 
-# GitHub 统计
+# Статистика GitHub
 
 <p align="center">
 
@@ -100,5 +100,5 @@
 ---
 
 <p align="center">
-  <i>感谢来访！</i> ⭐
+  <i>Спасибо за визит!</i> ⭐
 </p>

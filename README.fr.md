@@ -1,32 +1,32 @@
-# 嘿，我是 aacanadaa
+# Salut, moi c'est aacanadaa
 
-[English](README.en.md) · **中文** · [Español](README.es.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Português](README.pt.md) · [Русский](README.ru.md) · [العربية](README.ar.md) · [हिन्दी](README.hi.md)
+[English](README.en.md) · [中文](README.md) · [Español](README.es.md) · **Français** · [Deutsch](README.de.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Português](README.pt.md) · [Русский](README.ru.md) · [العربية](README.ar.md) · [हिन्दी](README.hi.md)
 
-## 关于我
+## À propos de moi
 
-我是一名开发者和技术爱好者，对编程、网络、Linux、游戏模组开发以及从零开始构建东西感兴趣。
+Je suis développeur et passionné de tech, intéressé par la programmation, les réseaux, Linux, le modding de jeux et le fait de construire des choses from scratch.
 
-* 💻 目前正在开发：**DayZ Hotbar（适用于 Fabric 1.20.1 的 Minecraft HUD 模组）**
-* 🔭 兴趣方向：**编程 • Linux • 网络 • 游戏模组开发**
-* 🧠 正在学习：**Rust**
+* 💻 En cours : **DayZ Hotbar (un mod de HUD Minecraft pour Fabric 1.20.1)**
+* 🔭 Centres d'intérêt : **Programmation • Linux • Réseaux • Modding de jeux**
+* 🧠 En train d'apprendre : **Rust**
 
-![主页浏览量](https://komarev.com/ghpvc/?username=aacanadaa&color=blueviolet&style=flat&label=PROFILE+VIEWS)
+![Vues du profil](https://komarev.com/ghpvc/?username=aacanadaa&color=blueviolet&style=flat&label=PROFILE+VIEWS)
 
 [![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/suoim)
 
 ---
 
-## 项目与仓库
+## Projets & dépôts
 
-### 我的仓库
+### Mes dépôts
 
-来看看我的项目、实验以及我正在做的各种东西：
+Découvrez mes projets, expériences et diverses choses sur lesquelles je travaille :
 
-[![仓库](https://img.shields.io/badge/GitHub-Repositories-181717?style=flat&logo=github)](https://github.com/aacanadaa?tab=repositories)
+[![Dépôts](https://img.shields.io/badge/GitHub-Repositories-181717?style=flat&logo=github)](https://github.com/aacanadaa?tab=repositories)
 
-### Minecraft 模组开发
+### Modding Minecraft
 
-我也会为不同游戏制作模组/内容。
+Je crée aussi des mods et du contenu pour différents jeux.
 
 **Modrinth**
 
@@ -38,9 +38,9 @@
 
 ---
 
-# 技能与工具
+# Compétences & outils
 
-## 语言与技术
+## Langages & technologies
 
 <p align="left">
 
@@ -58,7 +58,7 @@
 
 </p>
 
-## 工具与软件
+## Outils & logiciels
 
 <p align="left">
 
@@ -87,7 +87,7 @@
 
 ---
 
-# GitHub 统计
+# Statistiques GitHub
 
 <p align="center">
 
@@ -100,5 +100,5 @@
 ---
 
 <p align="center">
-  <i>感谢来访！</i> ⭐
+  <i>Merci de votre visite !</i> ⭐
 </p>

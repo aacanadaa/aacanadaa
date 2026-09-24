@@ -1,32 +1,32 @@
-# 嘿，我是 aacanadaa
+# 안녕하세요, aacanadaa입니다
 
-[English](README.en.md) · **中文** · [Español](README.es.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Português](README.pt.md) · [Русский](README.ru.md) · [العربية](README.ar.md) · [हिन्दी](README.hi.md)
+[English](README.en.md) · [中文](README.md) · [Español](README.es.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [日本語](README.ja.md) · **한국어** · [Português](README.pt.md) · [Русский](README.ru.md) · [العربية](README.ar.md) · [हिन्दी](README.hi.md)
 
-## 关于我
+## 자기소개
 
-我是一名开发者和技术爱好者，对编程、网络、Linux、游戏模组开发以及从零开始构建东西感兴趣。
+프로그래밍, 네트워킹, Linux, 게임 모딩, 그리고 처음부터 무언가를 만드는 것에 관심이 있는 개발자이자 기술 애호가입니다.
 
-* 💻 目前正在开发：**DayZ Hotbar（适用于 Fabric 1.20.1 的 Minecraft HUD 模组）**
-* 🔭 兴趣方向：**编程 • Linux • 网络 • 游戏模组开发**
-* 🧠 正在学习：**Rust**
+* 💻 현재 작업 중: **DayZ Hotbar (Fabric 1.20.1용 Minecraft HUD 모드)**
+* 🔭 관심 분야: **프로그래밍 • Linux • 네트워킹 • 게임 모딩**
+* 🧠 학습 중: **Rust**
 
-![主页浏览量](https://komarev.com/ghpvc/?username=aacanadaa&color=blueviolet&style=flat&label=PROFILE+VIEWS)
+![프로필 조회수](https://komarev.com/ghpvc/?username=aacanadaa&color=blueviolet&style=flat&label=PROFILE+VIEWS)
 
 [![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/suoim)
 
 ---
 
-## 项目与仓库
+## 프로젝트 & 저장소
 
-### 我的仓库
+### 내 저장소
 
-来看看我的项目、实验以及我正在做的各种东西：
+제 프로젝트, 실험, 그리고 여러 작업들을 살펴보세요:
 
-[![仓库](https://img.shields.io/badge/GitHub-Repositories-181717?style=flat&logo=github)](https://github.com/aacanadaa?tab=repositories)
+[![저장소](https://img.shields.io/badge/GitHub-Repositories-181717?style=flat&logo=github)](https://github.com/aacanadaa?tab=repositories)
 
-### Minecraft 模组开发
+### Minecraft 모딩
 
-我也会为不同游戏制作模组/内容。
+다양한 게임용 모드와 콘텐츠도 만듭니다.
 
 **Modrinth**
 
@@ -38,9 +38,9 @@
 
 ---
 
-# 技能与工具
+# 기술 & 도구
 
-## 语言与技术
+## 언어 & 기술
 
 <p align="left">
 
@@ -58,7 +58,7 @@
 
 </p>
 
-## 工具与软件
+## 도구 & 소프트웨어
 
 <p align="left">
 
@@ -87,7 +87,7 @@
 
 ---
 
-# GitHub 统计
+# GitHub 통계
 
 <p align="center">
 
@@ -100,5 +100,5 @@
 ---
 
 <p align="center">
-  <i>感谢来访！</i> ⭐
+  <i>방문해 주셔서 감사합니다!</i> ⭐
 </p>

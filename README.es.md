@@ -1,32 +1,32 @@
-# 嘿，我是 aacanadaa
+# ¡Hola, soy aacanadaa
 
-[English](README.en.md) · **中文** · [Español](README.es.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Português](README.pt.md) · [Русский](README.ru.md) · [العربية](README.ar.md) · [हिन्दी](README.hi.md)
+[English](README.en.md) · [中文](README.md) · **Español** · [Français](README.fr.md) · [Deutsch](README.de.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Português](README.pt.md) · [Русский](README.ru.md) · [العربية](README.ar.md) · [हिन्दी](README.hi.md)
 
-## 关于我
+## Sobre mí
 
-我是一名开发者和技术爱好者，对编程、网络、Linux、游戏模组开发以及从零开始构建东西感兴趣。
+Soy desarrollador y entusiasta de la tecnología, interesado en programación, redes, Linux, modding de juegos y construir cosas desde cero.
 
-* 💻 目前正在开发：**DayZ Hotbar（适用于 Fabric 1.20.1 的 Minecraft HUD 模组）**
-* 🔭 兴趣方向：**编程 • Linux • 网络 • 游戏模组开发**
-* 🧠 正在学习：**Rust**
+* 💻 Trabajando actualmente en: **DayZ Hotbar (un mod de HUD de Minecraft para Fabric 1.20.1)**
+* 🔭 Intereses: **Programación • Linux • Redes • Modding de juegos**
+* 🧠 Aprendiendo actualmente: **Rust**
 
-![主页浏览量](https://komarev.com/ghpvc/?username=aacanadaa&color=blueviolet&style=flat&label=PROFILE+VIEWS)
+![Vistas del perfil](https://komarev.com/ghpvc/?username=aacanadaa&color=blueviolet&style=flat&label=PROFILE+VIEWS)
 
 [![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/suoim)
 
 ---
 
-## 项目与仓库
+## Proyectos y repositorios
 
-### 我的仓库
+### Mis repositorios
 
-来看看我的项目、实验以及我正在做的各种东西：
+Echa un vistazo a mis proyectos, experimentos y varias cosas en las que estoy trabajando:
 
-[![仓库](https://img.shields.io/badge/GitHub-Repositories-181717?style=flat&logo=github)](https://github.com/aacanadaa?tab=repositories)
+[![Repositorios](https://img.shields.io/badge/GitHub-Repositories-181717?style=flat&logo=github)](https://github.com/aacanadaa?tab=repositories)
 
-### Minecraft 模组开发
+### Desarrollo de mods de Minecraft
 
-我也会为不同游戏制作模组/内容。
+También hago mods y contenido para distintos juegos.
 
 **Modrinth**
 
@@ -38,9 +38,9 @@
 
 ---
 
-# 技能与工具
+# Habilidades y herramientas
 
-## 语言与技术
+## Lenguajes y tecnologías
 
 <p align="left">
 
@@ -58,7 +58,7 @@
 
 </p>
 
-## 工具与软件
+## Herramientas y software
 
 <p align="left">
 
@@ -87,7 +87,7 @@
 
 ---
 
-# GitHub 统计
+# Estadísticas de GitHub
 
 <p align="center">
 
@@ -100,5 +100,5 @@
 ---
 
 <p align="center">
-  <i>感谢来访！</i> ⭐
+  <i>¡Gracias por tu visita!</i> ⭐
 </p>

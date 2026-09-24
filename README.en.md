@@ -1,8 +1,6 @@
 # Hey, I'm aacanadaa
 
-[中文](README.md) | **English**
-
-<!-- ================= About me ================= -->
+[中文](README.md) · **English** · [Español](README.es.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Português](README.pt.md) · [Русский](README.ru.md) · [العربية](README.ar.md) · [हिन्दी](README.hi.md)
 
 ## About me
 
@@ -12,11 +10,7 @@ I'm a developer and tech enthusiast interested in programming, networking, Linux
 * 🔭 Interests: **Programming • Linux • Networking • Game modding**
 * 🧠 Currently learning: **Rust**
 
-<!-- Profile views -->
-
 ![Profile views](https://komarev.com/ghpvc/?username=aacanadaa&color=blueviolet&style=flat&label=PROFILE+VIEWS)
-
-<!-- Ko-fi -->
 
 [![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/suoim)
 
