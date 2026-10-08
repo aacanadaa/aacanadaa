@@ -1,6 +1,6 @@
 # Hey, I'm aacanadaa
 
-**English** · [中文](README.zh.md) · [Español](README.es.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Português](README.pt.md) · [Русский](README.ru.md) · [العربية](README.ar.md) · [हिन्दी](README.hi.md)
+**English** · [中文](README.zh.md) · [日本語](README.ja.md) · [한국어](README.ko.md)
 
 ## About me
 
