@@ -6,7 +6,7 @@
 
 프로그래밍, 네트워킹, Linux, 게임 모딩, 그리고 처음부터 무언가를 만드는 것에 관심이 있는 개발자이자 기술 애호가입니다.
 
-* 💻 현재 작업 중: **DayZ Hotbar (Fabric 1.20.1용 Minecraft HUD 모드)**
+* 💻 현재 작업 중: **packet-tracer-pkt-format (바이트 단위로 정확한 Cisco Packet Tracer .pkt/.pka 코덱)**
 * 🔭 관심 분야: **프로그래밍 • Linux • 네트워킹 • 게임 모딩**
 * 🧠 학습 중: **Rust**
 
@@ -18,9 +18,17 @@
 
 ## 프로젝트 & 저장소
 
-### 내 저장소
+### 주요 프로젝트
 
-제 프로젝트, 실험, 그리고 여러 작업들을 살펴보세요:
+최근 작업 중인 프로젝트 일부입니다:
+
+- **[packet-tracer-pkt-format](https://github.com/aacanadaa/packet-tracer-pkt-format)** — Packet Tracer 없이 Cisco Packet Tracer 랩과 채점 활동을 생성: 바이트 단위로 정확한 `.pkt`/`.pka` 코덱과 오프라인 생성기. `Python`
+- **[DayZ-Inventory](https://github.com/aacanadaa/DayZ-Inventory)** — Minecraft Fabric/Forge 1.20.1용 DayZ 스타일 Vicinity UI와 통합 컨테이너 루팅. `Java`
+- **[DayZ-Hotbar](https://github.com/aacanadaa/DayZ-Hotbar)** — Minecraft Fabric 1.20.1용 DayZ 스타일 핫바와 상태 HUD. `Java`
+- **[AutoPalette](https://github.com/aacanadaa/AutoPalette)** — Minecraft용 ArtMap 자동 픽셀 페인터. `Java`
+- **[tetrisplus](https://github.com/aacanadaa/tetrisplus)** — C와 ncurses로 작성된 Ubuntu 터미널용 완성형 테트리스. `C`
+
+### 모든 저장소
 
 [![저장소](https://img.shields.io/badge/GitHub-Repositories-181717?style=flat&logo=github)](https://github.com/aacanadaa?tab=repositories)
 
@@ -90,11 +98,8 @@
 # GitHub 통계
 
 <p align="center">
-
-<img src="https://github-readme-stats.shion.dev/api?username=aacanadaa&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=aacanadaa&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
+  <img src="https://github-readme-stats.shion.dev/api?username=aacanadaa&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" alt="aacanadaa's GitHub stats"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=aacanadaa&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Most used languages"/>
 </p>
 
 ---

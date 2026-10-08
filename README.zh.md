@@ -6,7 +6,7 @@
 
 我是一名开发者和技术爱好者，对编程、网络、Linux、游戏模组开发以及从零开始构建东西感兴趣。
 
-* 💻 目前正在开发：**DayZ Hotbar（适用于 Fabric 1.20.1 的 Minecraft HUD 模组）**
+* 💻 目前正在开发：**packet-tracer-pkt-format（字节精确的 Cisco Packet Tracer .pkt/.pka 编解码器）**
 * 🔭 兴趣方向：**编程 • Linux • 网络 • 游戏模组开发**
 * 🧠 正在学习：**Rust**
 
@@ -18,9 +18,17 @@
 
 ## 项目与仓库
 
-### 我的仓库
+### 精选项目
 
-来看看我的项目、实验以及我正在做的各种东西：
+以下是我最近在做的一些项目：
+
+- **[packet-tracer-pkt-format](https://github.com/aacanadaa/packet-tracer-pkt-format)** — 无需 Packet Tracer 即可创建 Cisco Packet Tracer 实验和评分活动：字节精确的 `.pkt`/`.pka` 编解码器与离线生成器。`Python`
+- **[DayZ-Inventory](https://github.com/aacanadaa/DayZ-Inventory)** — 为 Minecraft Fabric/Forge 1.20.1 带来 DayZ 风格的附近物品 UI 与统一的容器拾取。`Java`
+- **[DayZ-Hotbar](https://github.com/aacanadaa/DayZ-Hotbar)** — 适用于 Minecraft Fabric 1.20.1 的 DayZ 风格快捷栏与状态 HUD。`Java`
+- **[AutoPalette](https://github.com/aacanadaa/AutoPalette)** — 适用于 Minecraft 的 ArtMap 自动逐像素绘制工具。`Java`
+- **[tetrisplus](https://github.com/aacanadaa/tetrisplus)** — 用 C 与 ncurses 编写的 Ubuntu 终端完整俄罗斯方块。`C`
+
+### 全部仓库
 
 [![仓库](https://img.shields.io/badge/GitHub-Repositories-181717?style=flat&logo=github)](https://github.com/aacanadaa?tab=repositories)
 
@@ -90,11 +98,8 @@
 # GitHub 统计
 
 <p align="center">
-
-<img src="https://github-readme-stats.shion.dev/api?username=aacanadaa&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=aacanadaa&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
+  <img src="https://github-readme-stats.shion.dev/api?username=aacanadaa&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" alt="aacanadaa's GitHub stats"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=aacanadaa&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Most used languages"/>
 </p>
 
 ---

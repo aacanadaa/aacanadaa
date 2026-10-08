@@ -6,7 +6,7 @@
 
 プログラミング、ネットワーク、Linux、ゲーム mod 開発、そしてゼロから物を構築することが好きな開発者・テクノロジー愛好家です。
 
-* 💻 現在開発中：**DayZ Hotbar（Fabric 1.20.1 向け Minecraft HUD モッド）**
+* 💻 現在開発中：**packet-tracer-pkt-format（バイト単位で正確な Cisco Packet Tracer .pkt/.pka コーデック）**
 * 🔭 興味のある分野：**プログラミング • Linux • ネットワーク • ゲーム mod 開発**
 * 🧠 学習中：**Rust**
 
@@ -18,9 +18,17 @@
 
 ## プロジェクトとリポジトリ
 
-### 私のリポジトリ
+### 注目のプロジェクト
 
-プロジェクト、実験、さまざまな取り組みをご覧ください：
+最近取り組んでいるプロジェクトの一部です：
+
+- **[packet-tracer-pkt-format](https://github.com/aacanadaa/packet-tracer-pkt-format)** — Packet Tracer 本体なしで Cisco Packet Tracer のラボと採点付きアクティビティを作成：バイト単位で正確な `.pkt`/`.pka` コーデックとオフラインジェネレーター。`Python`
+- **[DayZ-Inventory](https://github.com/aacanadaa/DayZ-Inventory)** — Minecraft Fabric/Forge 1.20.1 向けの DayZ 風 Vicinity UI と統合コンテナ収納。`Java`
+- **[DayZ-Hotbar](https://github.com/aacanadaa/DayZ-Hotbar)** — Minecraft Fabric 1.20.1 向けの DayZ 風ホットバーとステータス HUD。`Java`
+- **[AutoPalette](https://github.com/aacanadaa/AutoPalette)** — Minecraft 用 ArtMap の自動ピクセル描画ツール。`Java`
+- **[tetrisplus](https://github.com/aacanadaa/tetrisplus)** — C と ncurses で書かれた Ubuntu ターミナル用の本格テトリス。`C`
+
+### すべてのリポジトリ
 
 [![リポジトリ](https://img.shields.io/badge/GitHub-Repositories-181717?style=flat&logo=github)](https://github.com/aacanadaa?tab=repositories)
 
@@ -90,11 +98,8 @@
 # GitHub 統計
 
 <p align="center">
-
-<img src="https://github-readme-stats.shion.dev/api?username=aacanadaa&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=aacanadaa&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
+  <img src="https://github-readme-stats.shion.dev/api?username=aacanadaa&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" alt="aacanadaa's GitHub stats"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=aacanadaa&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Most used languages"/>
 </p>
 
 ---

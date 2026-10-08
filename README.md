@@ -6,7 +6,7 @@
 
 I'm a developer and tech enthusiast interested in programming, networking, Linux, game modding, and building things from scratch.
 
-* 💻 Currently working on: **DayZ Hotbar (a Minecraft HUD mod for Fabric 1.20.1)**
+* 💻 Currently working on: **packet-tracer-pkt-format (a byte-exact Cisco Packet Tracer .pkt/.pka codec)**
 * 🔭 Interests: **Programming • Linux • Networking • Game modding**
 * 🧠 Currently learning: **Rust**
 
@@ -18,9 +18,17 @@ I'm a developer and tech enthusiast interested in programming, networking, Linux
 
 ## Projects & Repositories
 
-### My repositories
+### Featured projects
 
-Check out my projects, experiments, and various things I'm working on:
+A few things I've been working on recently:
+
+- **[packet-tracer-pkt-format](https://github.com/aacanadaa/packet-tracer-pkt-format)** — Create Cisco Packet Tracer labs and scored activities without Packet Tracer: a byte-exact `.pkt`/`.pka` codec and offline generator. `Python`
+- **[DayZ-Inventory](https://github.com/aacanadaa/DayZ-Inventory)** — DayZ-style Vicinity UI and unified container looting for Minecraft Fabric/Forge 1.20.1. `Java`
+- **[DayZ-Hotbar](https://github.com/aacanadaa/DayZ-Hotbar)** — A DayZ-style hotbar and status HUD for Minecraft Fabric 1.20.1. `Java`
+- **[AutoPalette](https://github.com/aacanadaa/AutoPalette)** — An automated pixel-by-pixel ArtMap painter for Minecraft. `Java`
+- **[tetrisplus](https://github.com/aacanadaa/tetrisplus)** — A complete Tetris game for the Ubuntu terminal, in C with ncurses. `C`
+
+### All repositories
 
 [![Repositories](https://img.shields.io/badge/GitHub-Repositories-181717?style=flat&logo=github)](https://github.com/aacanadaa?tab=repositories)
 
@@ -90,11 +98,8 @@ I also make mods and content for various games.
 # GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.shion.dev/api?username=aacanadaa&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=aacanadaa&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
+  <img src="https://github-readme-stats.shion.dev/api?username=aacanadaa&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" alt="aacanadaa's GitHub stats"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=aacanadaa&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Most used languages"/>
 </p>
 
 ---
